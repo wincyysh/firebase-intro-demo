@@ -1,0 +1,1 @@
+# Here is a simplies setup from html input to firebase realtime database
